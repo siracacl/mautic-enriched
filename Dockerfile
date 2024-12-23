@@ -1,5 +1,5 @@
 #use original mautic docker apache
-FROM mautic/mautic:5.2.1-apache
+FROM mautic/mautic:5.2.0-apache
 
 # Installiere Composer, Nano und Telnet
 RUN apt-get update && apt-get install -y \
