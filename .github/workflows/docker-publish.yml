@@ -27,4 +27,4 @@ jobs:
         push: true
         tags: |
           ghcr.io/${{ github.repository_owner }}/mautic-enhanced:latest
-          ghcr.io/${{ github.repository_owner }}/mautic-enhanced:5.1.1
+          ghcr.io/${{ github.repository_owner }}/mautic-enhanced:5.2.1
